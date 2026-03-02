@@ -12,6 +12,6 @@ Di akhir minggu, laporan muncul:
 Toni tersenyum, karena akhirnya ia bisa melihat progres nyata meski kecil.
 
 #🌍 Kalau aplikasi ini viral, apa dampaknya?#
-*Normalisasi rasa takut belajar coding* → orang sadar bahwa minder itu wajar, bukan kelemahan.
-*Budaya refleksi mikro* → developer terbiasa menulis satu kalimat, bukan curhat panjang, sehingga lebih konsisten.
-*Komunitas lebih sehat* → data anonim bisa menunjukkan pola emosional developer, membantu edukasi tentang burnout.
+**Normalisasi rasa takut belajar coding** → orang sadar bahwa minder itu wajar, bukan kelemahan.
+**Budaya refleksi mikro** → developer terbiasa menulis satu kalimat, bukan curhat panjang, sehingga lebih konsisten.
+**Komunitas lebih sehat** → data anonim bisa menunjukkan pola emosional developer, membantu edukasi tentang burnout.
