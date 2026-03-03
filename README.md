@@ -6,4 +6,4 @@ Aplikasi ini diharapkan dapat mendukung perjalanan para pemula maupun developer 
 Aplikasi ini dibuat sebagai respon terhadap tantangan umum yang dihadapi para pengembang muda, yaitu menjaga motivasi, mengelola beban kerja, dan membangun rutinitas yang berkelanjutan dalam proses belajar maupun berkarya.
 
 # Collaborator :
-Nasaruddin
+Kevin
